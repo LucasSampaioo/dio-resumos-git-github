@@ -1,4 +1,4 @@
-# Git e GitHu
+# Git e GitHub
 
 ## Introdução
 
